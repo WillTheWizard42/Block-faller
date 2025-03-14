@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ee06c23c6f3135b439afb5e17175d0d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redTile: {fileID: 1048571767448832160, guid: 58e037a648a32244386204068f83cbb3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
